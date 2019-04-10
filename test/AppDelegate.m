@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  test
 //
-//  Created by 宇松科技 on 2019/4/10.
-//  Copyright © 
+//  Create
+//  Copyright ©
 
 #import "AppDelegate.h"
 
